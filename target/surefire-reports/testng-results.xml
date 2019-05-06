@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="219108" started-at="2019-05-06T11:23:57Z" finished-at="2019-05-06T11:27:36Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="219108" started-at="2019-05-06T11:23:57Z" finished-at="2019-05-06T11:27:36Z">
+      <class name="Testpipe.Testpipe.TestClass2">
+        <test-method status="PASS" signature="setup()[pri:0, instance:Testpipe.Testpipe.TestClass2@3b6eb2ec]" name="setup" is-config="true" duration-ms="18818" started-at="2019-05-06T07:23:57Z" finished-at="2019-05-06T07:24:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="test4()[pri:0, instance:Testpipe.Testpipe.TestClass2@3b6eb2ec]" name="test4" duration-ms="20" started-at="2019-05-06T07:24:16Z" finished-at="2019-05-06T07:24:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method status="PASS" signature="closeTest()[pri:0, instance:Testpipe.Testpipe.TestClass2@3b6eb2ec]" name="closeTest" is-config="true" duration-ms="2662" started-at="2019-05-06T07:24:16Z" finished-at="2019-05-06T07:24:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeTest -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:Testpipe.Testpipe.TestClass2@3b6eb2ec]" name="setup" is-config="true" duration-ms="40401" started-at="2019-05-06T07:24:19Z" finished-at="2019-05-06T07:24:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="test5()[pri:0, instance:Testpipe.Testpipe.TestClass2@3b6eb2ec]" name="test5" duration-ms="21" started-at="2019-05-06T07:24:59Z" finished-at="2019-05-06T07:24:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test5 -->
+        <test-method status="PASS" signature="closeTest()[pri:0, instance:Testpipe.Testpipe.TestClass2@3b6eb2ec]" name="closeTest" is-config="true" duration-ms="2156" started-at="2019-05-06T07:24:59Z" finished-at="2019-05-06T07:25:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeTest -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:Testpipe.Testpipe.TestClass2@3b6eb2ec]" name="setup" is-config="true" duration-ms="33461" started-at="2019-05-06T07:25:01Z" finished-at="2019-05-06T07:25:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="test6()[pri:0, instance:Testpipe.Testpipe.TestClass2@3b6eb2ec]" name="test6" duration-ms="20" started-at="2019-05-06T07:25:35Z" finished-at="2019-05-06T07:25:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test6 -->
+        <test-method status="PASS" signature="closeTest()[pri:0, instance:Testpipe.Testpipe.TestClass2@3b6eb2ec]" name="closeTest" is-config="true" duration-ms="2369" started-at="2019-05-06T07:25:35Z" finished-at="2019-05-06T07:25:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeTest -->
+      </class> <!-- Testpipe.Testpipe.TestClass2 -->
+      <class name="Testpipe.Testpipe.TestClass1">
+        <test-method status="PASS" signature="setup()[pri:0, instance:Testpipe.Testpipe.TestClass1@1e643faf]" name="setup" is-config="true" duration-ms="43706" started-at="2019-05-06T07:25:37Z" finished-at="2019-05-06T07:26:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:Testpipe.Testpipe.TestClass1@1e643faf]" name="test1" duration-ms="16" started-at="2019-05-06T07:26:21Z" finished-at="2019-05-06T07:26:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="closeTest()[pri:0, instance:Testpipe.Testpipe.TestClass1@1e643faf]" name="closeTest" is-config="true" duration-ms="2137" started-at="2019-05-06T07:26:21Z" finished-at="2019-05-06T07:26:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeTest -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:Testpipe.Testpipe.TestClass1@1e643faf]" name="setup" is-config="true" duration-ms="33172" started-at="2019-05-06T07:26:23Z" finished-at="2019-05-06T07:26:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:Testpipe.Testpipe.TestClass1@1e643faf]" name="test2" duration-ms="17" started-at="2019-05-06T07:26:56Z" finished-at="2019-05-06T07:26:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="closeTest()[pri:0, instance:Testpipe.Testpipe.TestClass1@1e643faf]" name="closeTest" is-config="true" duration-ms="2109" started-at="2019-05-06T07:26:56Z" finished-at="2019-05-06T07:26:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeTest -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:Testpipe.Testpipe.TestClass1@1e643faf]" name="setup" is-config="true" duration-ms="35500" started-at="2019-05-06T07:26:58Z" finished-at="2019-05-06T07:27:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="test3()[pri:0, instance:Testpipe.Testpipe.TestClass1@1e643faf]" name="test3" duration-ms="23" started-at="2019-05-06T07:27:34Z" finished-at="2019-05-06T07:27:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method status="PASS" signature="closeTest()[pri:0, instance:Testpipe.Testpipe.TestClass1@1e643faf]" name="closeTest" is-config="true" duration-ms="2371" started-at="2019-05-06T07:27:34Z" finished-at="2019-05-06T07:27:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeTest -->
+      </class> <!-- Testpipe.Testpipe.TestClass1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
